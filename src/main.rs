@@ -1,4 +1,3 @@
-// Use druid
 use druid::{Data, widget::{Label, Button, Flex}, Env, Widget, WindowDesc, AppLauncher};
 
 // Derive Data trait
